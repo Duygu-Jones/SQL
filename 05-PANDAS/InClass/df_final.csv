@@ -1,0 +1,6 @@
+,name,salary,age,dept_IT,job_data scientist,job_frontend developer,job_manager,job_recruiter
+0,Tyler DURDEN,180000,55,False,False,False,True,False
+1,MARIA puder,150000,28,True,False,False,False,False
+2,dorothy gale,120000,30,False,False,False,False,True
+3,Edmond Dantes,170000,-,True,True,False,False,False
+4,Gregor SAMSA,120000,32,True,False,True,False,False
