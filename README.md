@@ -27,8 +27,9 @@ The aim of this repository is to provide a comprehensive set of resources for le
 
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/your-username/sql-practice-and-lecture-notes.git
-    cd sql-practice-and-lecture-notes
+    
+    git clone https://github.com/Duygu-Jones/SQL.git
+    
     ```
 2. Browse the folders to find the relevant scripts, exercises, notes, and other materials.
 3. Follow the instructions within each file to practice and enhance your SQL skills.
