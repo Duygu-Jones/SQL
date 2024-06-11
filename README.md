@@ -1,4 +1,4 @@
-# SQL Practice and Lecture Notes
+# 🔥 Ultimate SQL Practice 🚀🎯
 
 This repository contains various SQL practice scripts, hands-on exercises, lecture notes, quizzes, tests, and a mindmap. It is designed to help you learn and master SQL through practical and theoretical resources.
 
@@ -12,8 +12,9 @@ This repository contains various SQL practice scripts, hands-on exercises, lectu
 
 ## Overview
 
-The aim of this repository is to provide a comprehensive set of resources for learning SQL. It includes practice scripts, hands-on exercises, lecture notes, quizzes, tests, and a detailed mindmap to help you understand and apply SQL concepts effectively.
+This repository aims to provide a comprehensive set of resources for learning SQL. It includes practice scripts, hands-on exercises, lecture notes, quizzes, tests, and a detailed mindmap to help you understand and apply SQL concepts effectively.
 
+<img src ="https://github.com/Duygu-Jones/SQL/blob/main/how%20to%20learn%20SQL%20mindmap.png"/>
 
 ## Usage
 
