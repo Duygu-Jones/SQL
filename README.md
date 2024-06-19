@@ -16,7 +16,7 @@ I hope this repository benefits the community and encourages collaboration and s
 
 ### Overview
 
-![image](https://github.com/Duygu-Jones/SQL/assets/141514497/a503bbd6-a910-458c-ae53-e90c8fb12033)
+![image](https://github.com/Duygu-Jones/SQL/blob/main/01-SQL_Query_MindMap.gif)
 
 
 ### Usage
