@@ -16,8 +16,9 @@ I hope this repository benefits the community and encourages collaboration and s
 
 ### Overview
 
-![image](https://github.com/Duygu-Jones/SQL/blob/main/01-SQL_Query_MindMap.gif)
-
+<p align="center">
+  <img src="https://github.com/Duygu-Jones/SQL/blob/main/02-SQL_Quiz-Tests-Notes-Reading/01-SQL_Query_MindMap.gif">
+</p>
 
 ### Usage
 
