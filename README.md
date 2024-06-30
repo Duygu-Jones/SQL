@@ -6,21 +6,13 @@ It is designed to help you learn and master SQL through practical and theoretica
 
 I hope this repository benefits the community and encourages collaboration and sharing of knowledge.
 
-### Table of Contents
-
-- [Overview](#overview)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [About Me](#about-me)
-- [License](#license)
-
 ### Overview
 
 <p align="center">
   <img src="https://github.com/Duygu-Jones/SQL/blob/main/02-SQL_Quiz-Tests-Notes-Reading/01-SQL_Query_MindMap.gif">
 </p>
 
-### Usage
+### ♻️Usage
 
 1. Clone the repository to your local machine:
     ```bash
@@ -30,17 +22,6 @@ I hope this repository benefits the community and encourages collaboration and s
     ```
 2. Browse the folders to find the relevant scripts, exercises, notes, and other materials.
 3. Follow the instructions within each file to practice and enhance your SQL skills.
-
-### Contributing
-
-Contributions are welcome! If you have any additional scripts, notes, or improvements to share, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Make your changes.
-4. Commit your changes (`git commit -m 'Add new content'`).
-5. Push to the branch (`git push origin feature-branch`).
-6. Open a pull request.
 
 ## 🤝Contributing
 
