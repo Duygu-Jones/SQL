@@ -25,7 +25,7 @@ I hope this repository benefits the community and encourages collaboration and s
 
 ## 🤝Contributing
 
-Contributions are welcome! If you have any improvements, suggestions, or additional datasets and EDA projects to share, please fork the repository and create a pull request.
+Contributions are welcome! If you have any improvements, suggestions, or additional information to share, please fork the repository and create a pull request.
 
 <br>
 
