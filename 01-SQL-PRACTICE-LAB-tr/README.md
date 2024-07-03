@@ -1,4 +1,4 @@
-# 🔥 Ultimate SQL Practice 🚀🎯
+# 🔥 Ultimate SQL Practice in Turkish 🚀🎯
 
 This repository contains various SQL practice scripts, hands-on exercises, lecture notes, quizzes, tests, and a mindmap. 
 
